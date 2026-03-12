@@ -1,0 +1,12 @@
+[
+  {
+    "name" : "All Manga",
+    "lang" : "all",
+    "url" : "https://allmanga.to/search-manga?cty=ALL&query"
+  },
+   {
+    "name" : "Project Suki",
+    "lang" : "all",
+    "url" : "https://projectsuki.com/browse"
+  }
+]
